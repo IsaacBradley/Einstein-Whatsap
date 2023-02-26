@@ -3,7 +3,7 @@ The Einstein Whatsapp is in development stage. One of its most outstanding featu
 - Source code not available due to copyright reasons.
 # Project Structure
 Components
-- Python Source code
+- Python
 - Images
 
 Libraries
