@@ -1,5 +1,6 @@
 # Einstein-Whatsap
-Done in Python, Source code not available due to copyright reasons.
+The Einstein Whatsapp is in development stage. One of its most outstanding features is a chatbot, built on top of chatGPT, in python.
+- Source code not available due to copyright reasons.
 # Project Structure
 Components
 - Python Source code
